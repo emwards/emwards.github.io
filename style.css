@@ -1,0 +1,37 @@
+style
+background
+  background-color:#415858;
+  h1 {
+    font-family: arial black;
+    font-size: 400px;
+    font-weight: 600;
+    text-align: center
+  }
+  p {
+    font-family: avenir;
+    font-size: 20px;
+  }
+  li {
+    display: inline-block;
+    text-align: center;
+    font-family: avenir;
+  }
+  img src {
+    display: 200px;
+
+  }
+h1:hover {
+  font-size: 600px;
+  font-color: white
+  }
+.thumbnails {
+  border: 20px solid black;
+  width: 400px;
+  height: 280px;
+  padding: 2px;
+}
+
+<div class="fa-3x">
+  <i class="fas fa-spinner fa-spin"></i>
+</i>
+</div>
